@@ -1,12 +1,13 @@
 ---
 title: 'Hello World! My name is Chris.kim'
-name: '백엔드 개발자 김훈희 입니다.'
-subtitle: '새로운 도전을 즐깁니다!'
+name: '즐거운 개발자 김훈희'
+subtitle: '도전을 즐깁니다!'
 buttonText: 'Contact Me'
 ---
 
-I'm an India based software developer with a goal-driven creative mindset and passion for learning and innovating.
+I'm an Korea based software developer with a goal-driven creative mindset and passion for learning and innovating.
 
-Currently working as a Software Developer at [Amdocs](https://www.amdocs.com/) and as a Freelance Content Writer for [Pepper Content](https://www.peppercontent.io).
+Currently I have completed the software developer program at [SpartaCodingClub](https://spartacodingclub.kr/) and I used to work as a middle manager at a sewing factory in Myanmar. [Related Articles](https://www.worldkorean.net/news/articleView.html?idxno=34131).
 
-Outside work, I occasionally blog on [Medium](https://chandrikadeb7.medium.com/). Off-screen, I sketch my thoughts [here](https://pin.it/4W1Rxtj)!
+I blog about what I studied for a day. [TIL](https://dawnpast12.tistory.com/).
+It's so much fun learning new things. [GIT](https://github.com/nmdkims)!
