@@ -1,7 +1,7 @@
 ---
 title: 'Hello World! My name is Chris.kim'
-name: 'Chandrika Deb'
-subtitle: 'I love exploring new things!'
+name: '백엔드 개발자 김훈희 입니다.'
+subtitle: '새로운 도전을 즐깁니다!'
 buttonText: 'Contact Me'
 ---
 
