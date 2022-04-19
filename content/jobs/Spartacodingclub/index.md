@@ -2,7 +2,7 @@
 date: '2022-04-12'
 title: '내일배움캠프 AI웹 트랙 1기'
 company: 'Spartacodingclub'
-range: 'Dec 2021 - Apr 2021'
+range: 'Dec 2021 - Apr 2022'
 url: 'https://sparta-nbcamp.oopy.io/'
 ---
 
