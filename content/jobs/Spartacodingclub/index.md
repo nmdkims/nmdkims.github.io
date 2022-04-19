@@ -1,7 +1,7 @@
 ---
 date: '2021-07-07'
 title: 'Freelance Content Writer'
-company: 'Pepper'
+company: 'Spartacodingclub'
 range: 'July 2021 - Present'
 url: 'https://www.peppercontent.io'
 ---
